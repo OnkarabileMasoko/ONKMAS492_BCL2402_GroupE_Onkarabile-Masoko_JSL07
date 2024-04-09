@@ -1,1 +1,1 @@
-# OnkaraONKMAS492_BCL2402_GroupE_Onkarabile-Masoko_JSL07
+I learnd alot from this project now I could proudly say I know basics of JavaScript.🔥
